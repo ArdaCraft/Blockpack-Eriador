@@ -1,0 +1,11 @@
+{
+  "name": "Elven_Window",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "elven_window"
+  },
+  "blockTypes": [
+    "STAINED_PANE",
+    "STAINED_GLASS_CTM"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Tulip_Pink",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "flower_tulip_pink"
+  },
+  "blockTypes": [
+    "PLANT"
+  ]
+}

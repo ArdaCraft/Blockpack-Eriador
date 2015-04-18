@@ -1,0 +1,17 @@
+{
+  "name": "Painted_Planks_Light_Blue",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "painted_planks_light_blue"
+  },
+  "blockTypes": [
+    "BLOCK",
+    "TRAP_DOOR",
+    "FENCE",
+    "DOOR",
+    "WALL",
+    "FENCE_GATE",
+    "STAIRS",
+    "SLAB"
+  ]
+}

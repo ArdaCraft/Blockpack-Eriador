@@ -1,0 +1,10 @@
+{
+  "name": "Turnip",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "turnip"
+  },
+  "blockTypes": [
+    "CROPS"
+  ]
+}

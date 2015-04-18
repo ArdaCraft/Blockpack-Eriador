@@ -1,0 +1,10 @@
+{
+  "name": "Cabbage",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "cabbage"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

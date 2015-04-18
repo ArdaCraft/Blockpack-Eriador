@@ -1,0 +1,10 @@
+{
+  "name": "Elven_Pillar",
+  "sound": "STONE",
+  "textures": {
+    "normal": "elven_pillar"
+  },
+  "blockTypes": [
+    "PILLAR"
+  ]
+}

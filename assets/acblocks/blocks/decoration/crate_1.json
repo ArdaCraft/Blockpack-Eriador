@@ -1,0 +1,14 @@
+{
+  "name": "Crate_1",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "crate_1"
+  },
+  "blockTypes": [
+    "SLAB",
+    "BLOCK",
+    "TRAP_DOOR",
+    "PLATE",
+    "CARPET"
+  ]
+}

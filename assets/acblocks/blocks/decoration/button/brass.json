@@ -1,0 +1,10 @@
+{
+  "name": "Brass",
+  "sound": "STONE",
+  "textures": {
+    "normal": "brass"
+  },
+  "blockTypes": [
+    "BUTTON"
+  ]
+}

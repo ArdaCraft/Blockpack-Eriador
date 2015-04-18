@@ -1,0 +1,11 @@
+{
+  "name": "Spruce_Beam",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "beam_spruce"
+  },
+  "blockTypes": [
+    "WALL",
+    "LOG"
+  ]
+}

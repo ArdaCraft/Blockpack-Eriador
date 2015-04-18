@@ -1,0 +1,11 @@
+{
+  "name": "Stone_Window",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "stone_window"
+  },
+  "blockTypes": [
+    "STAINED_GLASS",
+    "STAINED_PANE"
+  ]
+}

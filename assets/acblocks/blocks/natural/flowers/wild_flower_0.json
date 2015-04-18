@@ -1,0 +1,10 @@
+{
+  "name": "Wild_Flower_0",
+  "sound": "SPONGE",
+  "textures": {
+    "normal": "flower_wild"
+  },
+  "blockTypes": [
+    "WEB"
+  ]
+}

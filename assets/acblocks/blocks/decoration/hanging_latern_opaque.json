@@ -1,0 +1,10 @@
+{
+  "name": "Hanging_Lantern_Opaque",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "lantern2"
+  },
+  "blockTypes": [
+    "TORCH"
+  ]
+}

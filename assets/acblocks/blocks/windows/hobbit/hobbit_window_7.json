@@ -1,0 +1,11 @@
+{
+  "name": "Hobbit_Window_7",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "hobbit_window_7"
+  },
+  "blockTypes": [
+    "STAINED_GLASS",
+    "STAINED_PANE"
+  ]
+}

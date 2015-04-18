@@ -1,0 +1,10 @@
+{
+  "name": "Large_Hobbit_Window_4",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "large_hobbit_window_4"
+  },
+  "blockTypes": [
+    "STAINED_GLASS"
+  ]
+}

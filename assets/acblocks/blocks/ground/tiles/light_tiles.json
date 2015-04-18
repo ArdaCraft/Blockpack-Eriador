@@ -1,0 +1,12 @@
+{
+  "name": "Light_Tiles",
+  "sound": "STONE",
+  "textures": {
+    "normal": "tiles_light"
+  },
+  "blockTypes": [
+    "SLAB",
+    "SLIM_SLAB",
+    "BLOCK"
+  ]
+}

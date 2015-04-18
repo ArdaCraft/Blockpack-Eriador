@@ -1,0 +1,10 @@
+{
+  "name": "Elven_Wall_2",
+  "sound": "STONE",
+  "textures": {
+    "normal": "elven_wall_2"
+  },
+  "blockTypes": [
+    "BLOCK"
+  ]
+}

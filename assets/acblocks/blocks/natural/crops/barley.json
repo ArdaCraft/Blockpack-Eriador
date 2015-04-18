@@ -1,0 +1,10 @@
+{
+  "name": "Barley",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "barley"
+  },
+  "blockTypes": [
+    "CROPS"
+  ]
+}

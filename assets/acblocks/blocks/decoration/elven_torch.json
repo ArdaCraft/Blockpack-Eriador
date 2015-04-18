@@ -1,0 +1,10 @@
+{
+  "name": "Elven",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "elven_torch"
+  },
+  "blockTypes": [
+    "TORCH"
+  ]
+}

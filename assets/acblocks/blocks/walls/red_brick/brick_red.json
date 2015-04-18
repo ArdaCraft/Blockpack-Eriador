@@ -1,0 +1,19 @@
+{
+  "name": "Brick_Red",
+  "sound": "STONE",
+  "textures": {
+    "normal": "brick_red"
+  },
+  "blockTypes": [
+    "STAIRS",
+    "FENCE",
+    "WALL",
+    "TRAP_DOOR",
+    "BLOCK",
+    "SLAB",
+    "PLATE",
+    "DOOR",
+    "CARPET",
+    "ANVIL"
+  ]
+}

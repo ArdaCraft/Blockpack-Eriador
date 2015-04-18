@@ -1,0 +1,14 @@
+{
+  "name": "Arnor_Floor",
+  "sound": "STONE",
+  "textures": {
+    "normal": "arnor_floor"
+  },
+  "blockTypes": [
+    "PLATE",
+    "BLOCK",
+    "STAIRS",
+    "SLAB",
+    "CARPET"
+  ]
+}

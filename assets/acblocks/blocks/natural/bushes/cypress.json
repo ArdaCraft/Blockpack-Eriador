@@ -1,0 +1,12 @@
+{
+  "name": "Cypress",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "cypress_lower",
+    "top": "cypress_upper",
+    "bottom": "cypress_lower"
+  },
+  "blockTypes": [
+    "DOUBLE_PLANT"
+  ]
+}

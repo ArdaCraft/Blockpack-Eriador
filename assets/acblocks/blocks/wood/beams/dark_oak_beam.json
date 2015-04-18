@@ -1,0 +1,11 @@
+{
+  "name": "Dark_Oak_Beam",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "beam_dark_oak"
+  },
+  "blockTypes": [
+    "WALL",
+    "LOG"
+  ]
+}
