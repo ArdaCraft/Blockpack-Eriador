@@ -1,0 +1,12 @@
+{
+  "name": "Tall_Juncus",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "juncus_effusus_double_bottom",
+    "top": "juncus_effusus_double_top",
+    "bottom": "juncus_effusus_double_bottom"
+  },
+  "blockTypes": [
+    "DOUBLE_PLANT"
+  ]
+}
