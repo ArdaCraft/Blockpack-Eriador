@@ -1,0 +1,10 @@
+{
+  "name": "Wooden_Anvil",
+  "sound": "WOOD",
+  "textures": {
+    "normal": "wooden_anvil"
+  },
+  "blockTypes": [
+    "ANVIL"
+  ]
+}

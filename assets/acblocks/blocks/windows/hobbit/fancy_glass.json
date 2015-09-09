@@ -1,0 +1,11 @@
+{
+  "name": "Fancy Glass",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "fancy_glass"
+  },
+  "blockTypes": [
+    "STAINED_GLASS",
+	"STAINED_PANE"
+  ]
+}
