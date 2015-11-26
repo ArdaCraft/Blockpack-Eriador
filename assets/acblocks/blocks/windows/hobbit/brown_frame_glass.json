@@ -1,0 +1,11 @@
+{
+  "name": "Brown Frame Glass",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "brown_frame_glass"
+  },
+  "blockTypes": [
+    "STAINED_GLASS",
+	"STAINED_PANE"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Shrivelfig",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "shrivelfig_bottom",
+    "top": "shrivelfig_top",
+    "bottom": "shrivelfig_bottom"
+  },
+  "blockTypes": [
+    "DOUBLE_PLANT"
+  ]
+}

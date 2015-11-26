@@ -1,0 +1,11 @@
+{
+  "name": "Frosted Iron Glass",
+  "sound": "GLASS",
+  "textures": {
+    "normal": "frosted_iron_glass"
+  },
+  "blockTypes": [
+    "STAINED_GLASS",
+	"STAINED_PANE"
+  ]
+}

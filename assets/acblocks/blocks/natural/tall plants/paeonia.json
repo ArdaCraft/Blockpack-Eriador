@@ -1,0 +1,12 @@
+{
+  "name": "Tall Paeonia",
+  "sound": "GRASS",
+  "textures": {
+    "normal": "double_plant_paeonia_bottom",
+    "top": "double_plant_paeonia_top",
+    "bottom": "double_plant_paeonia_bottom"
+  },
+  "blockTypes": [
+    "DOUBLE_PLANT"
+  ]
+}
