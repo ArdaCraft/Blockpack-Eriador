@@ -1,0 +1,13 @@
+language: java
+script:
+  - mvn package
+deploy:
+  provider: releases
+  api_key: '$GITHUB_API_KEY'
+  file: "target/*.zip"
+  file_glob: true
+  skip_cleanup: true
+  on:
+    tags: false
+notifications:
+  email: false
