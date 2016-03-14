@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "Blockpack-Eriador-1.1.7"
+    "description": "${project.groupId} ${project.name} v${project.version}"
   }
 }
