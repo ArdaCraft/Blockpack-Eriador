@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_nse",
+    "textures": {
+        "edge": "acblocks:blocks/frosted_iron_glass",
+        "pane": "acblocks:blocks/frosted_iron_glass"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tall_bracken",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_tall_bracken_bottom",
+    "top": "double_tall_bracken_top",
+    "bottom": "double_tall_bracken_bottom"
+  }
+}

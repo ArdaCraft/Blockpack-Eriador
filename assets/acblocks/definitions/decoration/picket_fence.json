@@ -1,0 +1,11 @@
+{
+  "name": "picket_fence",
+  "base": "WOOD",
+  "types": [
+    "PANE"
+  ],
+  "textures": {
+    "normal": "picket_fence",
+    "top": "invisible"
+  }
+}

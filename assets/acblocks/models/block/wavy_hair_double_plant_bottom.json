@@ -1,0 +1,6 @@
+{
+    "parent": "block/tallgrass",
+    "textures": {
+        "cross": "acblocks:blocks/double_plant_wavy_hair_bottom"
+    }
+}

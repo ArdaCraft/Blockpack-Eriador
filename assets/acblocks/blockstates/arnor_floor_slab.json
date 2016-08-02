@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:arnor_floor_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:arnor_floor_upper_slab" }
+    }
+}

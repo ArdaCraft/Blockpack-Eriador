@@ -1,0 +1,12 @@
+{
+  "name": "cypress",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "cypress_lower",
+    "top": "cypress_upper",
+    "bottom": "cypress_lower"
+  }
+}

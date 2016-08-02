@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "${project.groupId} ${project.name} v${project.version}"
+    "description": "derp"
   }
 }

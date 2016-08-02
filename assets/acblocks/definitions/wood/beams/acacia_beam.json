@@ -1,0 +1,11 @@
+{
+  "name": "acacia_beam",
+  "base": "WOOD",
+  "types": [
+    "WALL",
+    "LOG"
+  ],
+  "textures": {
+    "normal": "beam_acacia"
+  }
+}

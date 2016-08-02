@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "acblocks:blocks/brick_red",
+        "top": "acblocks:blocks/brick_red"
+    }
+}

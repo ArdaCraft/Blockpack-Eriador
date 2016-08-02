@@ -1,0 +1,10 @@
+{
+  "name": "elven",
+  "base": "WOOD",
+  "types": [
+    "TORCH"
+  ],
+  "textures": {
+    "normal": "elven_torch"
+  }
+}

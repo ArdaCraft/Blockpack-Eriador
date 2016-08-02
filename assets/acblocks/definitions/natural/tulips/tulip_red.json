@@ -1,0 +1,10 @@
+{
+  "name": "tulip_red",
+  "base": "GRASS",
+  "types": [
+    "PLANT"
+  ],
+  "textures": {
+    "normal": "flower_tulip_red"
+  }
+}

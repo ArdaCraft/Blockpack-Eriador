@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_nsew" },
+        "east=false,north=true,south=false,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_n" },
+        "east=true,north=false,south=false,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_n", "y": 90 },
+        "east=false,north=false,south=true,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_s" },
+        "east=false,north=false,south=false,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_s", "y": 90 },
+        "east=true,north=true,south=false,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_ne" },
+        "east=true,north=false,south=true,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_se" },
+        "east=false,north=false,south=true,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_sw" },
+        "east=false,north=true,south=false,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_nw" },
+        "east=false,north=true,south=true,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_ns" },
+        "east=true,north=false,south=false,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_ns", "y": 90 },
+        "east=true,north=true,south=true,west=false": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_nse" },
+        "east=true,north=false,south=true,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_sew" },
+        "east=false,north=true,south=true,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_nsw" },
+        "east=true,north=true,south=false,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_new" },
+        "east=true,north=true,south=true,west=true": { "model": "acblocks:hobbit_window_yellow_1_pane_stained_nsew" }
+    }
+}

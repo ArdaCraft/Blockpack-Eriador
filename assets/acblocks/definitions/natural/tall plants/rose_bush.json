@@ -1,0 +1,12 @@
+{
+  "name": "rose_bush",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "rose_bush_double_tall_bottom",
+    "top": "rose_bush_double_tall_top",
+    "bottom": "rose_bush_double_tall_bottom"
+  }
+}

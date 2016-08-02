@@ -1,0 +1,11 @@
+{
+  "name": "hobbit_window_2",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "hobbit_window_2"
+  }
+}

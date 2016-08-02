@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:clay_tiles_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:clay_tiles_upper_slab" }
+    }
+}

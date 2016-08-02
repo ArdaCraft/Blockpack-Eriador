@@ -1,0 +1,12 @@
+{
+  "name": "light_tiles",
+  "base": "STONE",
+  "types": [
+    "SLAB",
+    "SLIM_SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "tiles_light"
+  }
+}

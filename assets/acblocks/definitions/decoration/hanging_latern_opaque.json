@@ -1,0 +1,10 @@
+{
+  "name": "hanging_lantern_opaque",
+  "base": "WOOD",
+  "types": [
+    "TORCH"
+  ],
+  "textures": {
+    "normal": "lantern2"
+  }
+}

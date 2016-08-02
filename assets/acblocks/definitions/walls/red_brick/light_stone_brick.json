@@ -1,0 +1,19 @@
+{
+  "name": "light_stone_brick",
+  "base": "STONE",
+  "types": [
+    "STAIRS",
+    "FENCE",
+    "WALL",
+    "TRAP_DOOR",
+    "BLOCK",
+    "SLAB",
+    "PLATE",
+    "DOOR",
+    "CARPET",
+    "ANVIL"
+  ],
+  "textures": {
+    "normal": "light_stone_brick"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "lavender",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "web_lavender_bottom",
+    "top": "web_lavender_top",
+    "bottom": "web_lavender_bottom"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "barley",
+  "base": "GRASS",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "barley"
+  }
+}

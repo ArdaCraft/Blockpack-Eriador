@@ -4,7 +4,7 @@
   <name>Eriador</name>
   <groupId>ArdaCraft</groupId>
   <artifactId>eriador</artifactId>
-  <version>4.0b</version>
+  <version>5.0-pre1</version>
   <url>http://ardacraft.me</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

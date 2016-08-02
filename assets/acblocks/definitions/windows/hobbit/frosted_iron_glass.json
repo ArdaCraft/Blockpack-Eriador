@@ -1,0 +1,11 @@
+{
+  "name": "frosted_iron_glass",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "frosted_iron_glass"
+  }
+}

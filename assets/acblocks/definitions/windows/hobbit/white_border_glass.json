@@ -1,0 +1,11 @@
+{
+  "name": "white_border_glass",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "white_border_glass"
+  }
+}

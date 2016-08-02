@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "acblocks:elven_pillar_directional_vertical" },
+        "axis=z":   { "model": "acblocks:elven_pillar_directional_horizontal" },
+        "axis=x":   { "model": "acblocks:elven_pillar_directional_horizontal", "y": 90 },
+        "axis=none": { "model": "acblocks:elven_pillar_directional_none" }
+    }
+}

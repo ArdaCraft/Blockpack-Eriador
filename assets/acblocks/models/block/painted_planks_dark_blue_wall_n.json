@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_n",
+    "textures": {
+        "wall": "acblocks:blocks/painted_planks_dark_blue"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "acblocks:hanging_lantern_opaque_torch" },
+        "facing=east": { "model": "acblocks:hanging_lantern_opaque_torch_wall" },
+        "facing=south": { "model": "acblocks:hanging_lantern_opaque_torch_wall", "y": 90 },
+        "facing=west": { "model": "acblocks:hanging_lantern_opaque_torch_wall", "y": 180 },
+        "facing=north": { "model": "acblocks:hanging_lantern_opaque_torch_wall", "y": 270 }
+    }
+}

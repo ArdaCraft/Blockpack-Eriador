@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_nsw",
+    "textures": {
+        "edge": "acblocks:blocks/hobbit_window_6",
+        "pane": "acblocks:blocks/hobbit_window_6"
+    }
+}

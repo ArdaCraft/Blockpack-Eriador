@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_nsew",
+    "textures": {
+        "wall": "acblocks:blocks/beam_dark_oak"
+    }
+}

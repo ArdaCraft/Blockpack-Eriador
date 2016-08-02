@@ -1,0 +1,10 @@
+{
+  "name": "wooden_anvil",
+  "base": "WOOD",
+  "types": [
+    "ANVIL"
+  ],
+  "textures": {
+    "normal": "wooden_anvil"
+  }
+}

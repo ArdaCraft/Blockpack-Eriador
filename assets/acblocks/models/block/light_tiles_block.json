@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/tiles_light",
+        "top": "acblocks:blocks/tiles_light",
+        "side": "acblocks:blocks/tiles_light"
+    }
+}

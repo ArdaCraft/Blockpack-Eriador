@@ -1,0 +1,11 @@
+{
+  "name": "oak_beam",
+  "base": "WOOD",
+  "types": [
+    "WALL",
+    "LOG"
+  ],
+  "textures": {
+    "normal": "beam_oak"
+  }
+}

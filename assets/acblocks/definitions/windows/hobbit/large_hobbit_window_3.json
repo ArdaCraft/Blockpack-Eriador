@@ -1,0 +1,10 @@
+{
+  "name": "large_hobbit_window_3",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED"
+  ],
+  "textures": {
+    "normal": "large_hobbit_window_3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north,half=bottom,open=false": { "model": "acblocks:mixed_tiles_paving_bottom" },
+    "facing=south,half=bottom,open=false": { "model": "acblocks:mixed_tiles_paving_bottom" },
+    "facing=east,half=bottom,open=false": { "model": "acblocks:mixed_tiles_paving_bottom" },
+    "facing=west,half=bottom,open=false": { "model": "acblocks:mixed_tiles_paving_bottom" },
+    "facing=north,half=top,open=false": { "model": "acblocks:mixed_tiles_paving_top" },
+    "facing=south,half=top,open=false": { "model": "acblocks:mixed_tiles_paving_top" },
+    "facing=east,half=top,open=false": { "model": "acblocks:mixed_tiles_paving_top" },
+    "facing=west,half=top,open=false": { "model": "acblocks:mixed_tiles_paving_top" },
+    "facing=north,half=bottom,open=true": { "model": "acblocks:mixed_tiles_paving_bottom" },
+    "facing=south,half=bottom,open=true": { "model": "acblocks:mixed_tiles_paving_bottom", "y": 180 },
+    "facing=east,half=bottom,open=true": { "model": "acblocks:mixed_tiles_paving_bottom", "y": 90 },
+    "facing=west,half=bottom,open=true": { "model": "acblocks:mixed_tiles_paving_bottom", "y": 270 },
+    "facing=north,half=top,open=true": { "model": "acblocks:mixed_tiles_paving_bottom" },
+    "facing=south,half=top,open=true": { "model": "acblocks:mixed_tiles_paving_bottom", "y": 180 },
+    "facing=east,half=top,open=true": { "model": "acblocks:mixed_tiles_paving_bottom", "y": 90 },
+    "facing=west,half=top,open=true": { "model": "acblocks:mixed_tiles_paving_bottom", "y": 270 }
+  }
+}

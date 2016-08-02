@@ -1,0 +1,7 @@
+{
+    "parent": "block/carpet",
+    "textures": {
+        "particle": "acblocks:blocks/brick_red",
+        "wool": "acblocks:blocks/brick_red"
+    }
+}

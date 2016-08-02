@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "acblocks:acacia_beam_directional_vertical" },
+        "axis=z":   { "model": "acblocks:acacia_beam_directional_horizontal" },
+        "axis=x":   { "model": "acblocks:acacia_beam_directional_horizontal", "y": 90 },
+        "axis=none": { "model": "acblocks:acacia_beam_directional_none" }
+    }
+}

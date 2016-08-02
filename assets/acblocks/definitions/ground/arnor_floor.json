@@ -1,0 +1,14 @@
+{
+  "name": "arnor_floor",
+  "base": "STONE",
+  "types": [
+    "PLATE",
+    "BLOCK",
+    "STAIRS",
+    "SLAB",
+    "CARPET"
+  ],
+  "textures": {
+    "normal": "arnor_floor"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "brass",
+  "base": "STONE",
+  "types": [
+    "BUTTON"
+  ],
+  "textures": {
+    "normal": "brass"
+  }
+}

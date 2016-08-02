@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "acblocks:tall_bracken_double_plant_bottom" },
+        "half=upper": { "model": "acblocks:tall_bracken_double_plant_top" }
+    }
+}

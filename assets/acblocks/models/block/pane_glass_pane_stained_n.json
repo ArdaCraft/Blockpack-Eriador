@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_n",
+    "textures": {
+        "edge": "acblocks:blocks/paneglass",
+        "pane": "acblocks:blocks/paneglass"
+    }
+}

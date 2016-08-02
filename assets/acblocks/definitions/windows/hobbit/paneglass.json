@@ -1,0 +1,11 @@
+{
+  "name": "pane_glass",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "paneglass"
+  }
+}

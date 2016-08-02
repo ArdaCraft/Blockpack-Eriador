@@ -1,0 +1,10 @@
+{
+  "name": "turnip",
+  "base": "SPONGE",
+  "types": [
+    "CROPS"
+  ],
+  "textures": {
+    "normal": "turnip"
+  }
+}

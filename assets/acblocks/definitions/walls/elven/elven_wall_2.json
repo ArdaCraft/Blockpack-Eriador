@@ -1,0 +1,10 @@
+{
+  "name": "elven_wall_2",
+  "base": "STONE",
+  "types": [
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "elven_wall_2"
+  }
+}

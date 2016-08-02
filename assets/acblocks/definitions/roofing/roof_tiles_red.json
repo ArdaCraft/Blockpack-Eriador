@@ -1,0 +1,12 @@
+{
+  "name": "roof_tiles_red",
+  "base": "WOOD",
+  "types": [
+    "STAIRS",
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "roof_tiles_red"
+  }
+}

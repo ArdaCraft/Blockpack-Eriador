@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/green_frame_glass",
+        "top": "acblocks:blocks/green_frame_glass",
+        "side": "acblocks:blocks/green_frame_glass"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mud",
+  "base": "SOULSAND",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "mud"
+  }
+}

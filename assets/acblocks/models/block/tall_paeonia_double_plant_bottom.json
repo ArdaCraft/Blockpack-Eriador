@@ -1,0 +1,6 @@
+{
+    "parent": "block/tallgrass",
+    "textures": {
+        "cross": "acblocks:blocks/double_plant_paeonia_bottom"
+    }
+}

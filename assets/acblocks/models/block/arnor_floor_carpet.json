@@ -1,0 +1,7 @@
+{
+    "parent": "block/carpet",
+    "textures": {
+        "particle": "acblocks:blocks/arnor_floor",
+        "wool": "acblocks:blocks/arnor_floor"
+    }
+}

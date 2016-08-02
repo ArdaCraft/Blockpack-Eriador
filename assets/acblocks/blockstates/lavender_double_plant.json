@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "acblocks:lavender_double_plant_bottom" },
+        "half=upper": { "model": "acblocks:lavender_double_plant_top" }
+    }
+}

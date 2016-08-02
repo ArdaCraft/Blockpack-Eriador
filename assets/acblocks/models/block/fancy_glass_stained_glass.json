@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/fancy_glass",
+        "top": "acblocks:blocks/fancy_glass",
+        "side": "acblocks:blocks/fancy_glass"
+    }
+}

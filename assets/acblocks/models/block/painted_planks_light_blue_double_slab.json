@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/painted_planks_light_blue",
+        "top": "acblocks:blocks/painted_planks_light_blue",
+        "side": "acblocks:blocks/painted_planks_light_blue"
+    }
+}

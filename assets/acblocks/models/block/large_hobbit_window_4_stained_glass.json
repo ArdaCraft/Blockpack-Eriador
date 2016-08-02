@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "acblocks:blocks/large_hobbit_window_4",
+        "top": "acblocks:blocks/large_hobbit_window_4",
+        "side": "acblocks:blocks/large_hobbit_window_4"
+    }
+}

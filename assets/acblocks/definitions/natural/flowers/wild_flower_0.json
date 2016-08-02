@@ -1,0 +1,10 @@
+{
+  "name": "wild_flower_0",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "flower_wild"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "elven_window",
+  "base": "GLASS",
+  "types": [
+    "PANE_STAINED",
+    "STAINED_GLASS_CTM"
+  ],
+  "textures": {
+    "normal": "elven_window"
+  }
+}

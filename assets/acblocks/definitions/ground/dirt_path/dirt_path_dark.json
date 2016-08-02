@@ -1,0 +1,11 @@
+{
+  "name": "dirt_path_dark",
+  "base": "DIRT",
+  "types": [
+    "SLAB",
+    "BLOCK"
+  ],
+  "textures": {
+    "normal": "dirt_path_dark"
+  }
+}

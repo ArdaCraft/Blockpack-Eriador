@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:crate_1_plate" },
+        "powered=true": { "model": "acblocks:crate_1_plate" }
+    }
+}

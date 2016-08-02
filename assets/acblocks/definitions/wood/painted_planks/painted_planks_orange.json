@@ -1,0 +1,17 @@
+{
+  "name": "painted_planks_orange",
+  "base": "WOOD",
+  "types": [
+    "BLOCK",
+    "TRAP_DOOR",
+    "FENCE",
+    "DOOR",
+    "WALL",
+    "FENCE_GATE",
+    "STAIRS",
+    "SLAB"
+  ],
+  "textures": {
+    "normal": "painted_planks_orange"
+  }
+}

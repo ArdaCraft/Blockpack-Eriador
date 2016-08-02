@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "acblocks:blocks/arnor_floor",
+        "top": "acblocks:blocks/arnor_floor",
+        "side": "acblocks:blocks/arnor_floor"
+    }
+}

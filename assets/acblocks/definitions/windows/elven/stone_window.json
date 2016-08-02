@@ -1,0 +1,11 @@
+{
+  "name": "stone_window",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "stone_window"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_ne",
+    "textures": {
+        "edge": "acblocks:blocks/fancy_glass",
+        "pane": "acblocks:blocks/fancy_glass"
+    }
+}

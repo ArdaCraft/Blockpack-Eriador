@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:light_stone_brick_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:light_stone_brick_double_slab" }
+  }
+}

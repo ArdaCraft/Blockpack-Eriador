@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "acblocks:blocks/beam_oak",
+        "side": "acblocks:blocks/beam_oak"
+    }
+}

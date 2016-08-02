@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "acblocks:arnor_floor_plate" },
+        "powered=true": { "model": "acblocks:arnor_floor_plate" }
+    }
+}

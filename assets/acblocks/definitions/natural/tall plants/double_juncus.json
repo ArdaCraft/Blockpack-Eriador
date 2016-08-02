@@ -1,0 +1,12 @@
+{
+  "name": "tall_juncus",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "juncus_effusus_double_bottom",
+    "top": "juncus_effusus_double_top",
+    "bottom": "juncus_effusus_double_bottom"
+  }
+}

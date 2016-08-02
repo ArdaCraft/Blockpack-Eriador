@@ -1,0 +1,6 @@
+{
+    "parent": "block/tallgrass",
+    "textures": {
+        "cross": "acblocks:blocks/wheat_tall_upper"
+    }
+}

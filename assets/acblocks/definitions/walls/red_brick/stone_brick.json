@@ -1,0 +1,19 @@
+{
+  "name": "stone_brick",
+  "base": "STONE",
+  "types": [
+    "STAIRS",
+    "FENCE",
+    "WALL",
+    "TRAP_DOOR",
+    "BLOCK",
+    "SLAB",
+    "PLATE",
+    "DOOR",
+    "CARPET",
+    "ANVIL"
+  ],
+  "textures": {
+    "normal": "stone_brick"
+  }
+}

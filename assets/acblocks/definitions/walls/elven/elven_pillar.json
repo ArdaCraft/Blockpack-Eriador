@@ -1,0 +1,10 @@
+{
+  "name": "elven_pillar",
+  "base": "STONE",
+  "types": [
+    "PILLAR"
+  ],
+  "textures": {
+    "normal": "elven_pillar"
+  }
+}

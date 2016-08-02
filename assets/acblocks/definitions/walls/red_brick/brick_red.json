@@ -1,0 +1,19 @@
+{
+  "name": "brick_red",
+  "base": "STONE",
+  "types": [
+    "STAIRS",
+    "FENCE",
+    "WALL",
+    "TRAP_DOOR",
+    "BLOCK",
+    "SLAB",
+    "PLATE",
+    "DOOR",
+    "CARPET",
+    "ANVIL"
+  ],
+  "textures": {
+    "normal": "brick_red"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tall_wheat",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "wheat_tall_lower",
+    "top": "wheat_tall_upper",
+    "bottom": "wheat_tall_lower"
+  }
+}

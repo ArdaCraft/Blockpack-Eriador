@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom,variant=false": { "model": "acblocks:clay_tiles_double_slab" },
+    "half=bottom,variant=false": { "model": "acblocks:clay_tiles_double_slab" }
+  }
+}

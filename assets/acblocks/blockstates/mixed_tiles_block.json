@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "acblocks:mixed_tiles_block" }
+  }
+}

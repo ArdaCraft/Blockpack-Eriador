@@ -1,0 +1,14 @@
+{
+  "name": "crate_1",
+  "base": "WOOD",
+  "types": [
+    "SLAB",
+    "BLOCK",
+    "TRAP_DOOR",
+    "PLATE",
+    "CARPET"
+  ],
+  "textures": {
+    "normal": "crate_1"
+  }
+}

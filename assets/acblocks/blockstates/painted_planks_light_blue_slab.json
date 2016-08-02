@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:painted_planks_light_blue_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:painted_planks_light_blue_upper_slab" }
+    }
+}

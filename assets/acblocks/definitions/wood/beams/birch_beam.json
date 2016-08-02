@@ -1,0 +1,11 @@
+{
+  "name": "birch_beam",
+  "base": "WOOD",
+  "types": [
+    "WALL",
+    "LOG"
+  ],
+  "textures": {
+    "normal": "beam_birch"
+  }
+}

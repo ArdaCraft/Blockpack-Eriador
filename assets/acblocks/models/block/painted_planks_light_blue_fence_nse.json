@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_nse",
+    "textures": {
+        "texture": "acblocks:blocks/painted_planks_light_blue"
+    }
+}

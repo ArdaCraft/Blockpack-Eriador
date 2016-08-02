@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:crate_0_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:crate_0_upper_slab" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:mixed_tiles_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:mixed_tiles_upper_slab" }
+    }
+}

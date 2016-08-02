@@ -1,0 +1,12 @@
+{
+  "name": "mixed_tiles",
+  "base": "STONE",
+  "types": [
+    "BLOCK",
+    "SLAB",
+    "SLIM_SLAB"
+  ],
+  "textures": {
+    "normal": "tiles_mixed"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "scarecrow_head_1",
+  "base": "SAND",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "scarecrow_head_1"
+  }
+}

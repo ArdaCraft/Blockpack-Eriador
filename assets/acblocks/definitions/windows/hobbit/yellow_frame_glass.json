@@ -1,0 +1,11 @@
+{
+  "name": "yellow_frame_glass",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "yellow_frame_glass"
+  }
+}

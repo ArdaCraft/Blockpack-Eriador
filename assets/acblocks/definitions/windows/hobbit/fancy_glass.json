@@ -1,0 +1,11 @@
+{
+  "name": "fancy_glass",
+  "base": "GLASS",
+  "types": [
+    "GLASS_STAINED",
+    "PANE_STAINED"
+  ],
+  "textures": {
+    "normal": "fancy_glass"
+  }
+}

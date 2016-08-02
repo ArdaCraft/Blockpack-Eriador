@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=false": { "model": "acblocks:roof_tiles_red_half_slab" },
+        "half=top,variant=false": { "model": "acblocks:roof_tiles_red_upper_slab" }
+    }
+}

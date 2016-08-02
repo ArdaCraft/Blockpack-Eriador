@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_s",
+    "textures": {
+        "edge": "acblocks:blocks/hobbit_window_yellow_3",
+        "pane": "acblocks:blocks/hobbit_window_yellow_3"
+    }
+}

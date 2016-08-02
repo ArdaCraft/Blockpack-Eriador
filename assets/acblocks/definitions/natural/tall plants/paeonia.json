@@ -1,0 +1,12 @@
+{
+  "name": "tall_paeonia",
+  "base": "GRASS",
+  "types": [
+    "DOUBLE_PLANT"
+  ],
+  "textures": {
+    "normal": "double_plant_paeonia_bottom",
+    "top": "double_plant_paeonia_top",
+    "bottom": "double_plant_paeonia_bottom"
+  }
+}

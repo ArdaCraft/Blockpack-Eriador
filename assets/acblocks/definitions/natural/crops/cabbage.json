@@ -1,0 +1,10 @@
+{
+  "name": "cabbage",
+  "base": "SPONGE",
+  "types": [
+    "WEB"
+  ],
+  "textures": {
+    "normal": "cabbage"
+  }
+}

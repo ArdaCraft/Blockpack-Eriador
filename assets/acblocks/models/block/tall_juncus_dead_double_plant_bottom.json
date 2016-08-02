@@ -1,0 +1,6 @@
+{
+    "parent": "block/tallgrass",
+    "textures": {
+        "cross": "acblocks:blocks/juncus_effusus_double_bottom_dead"
+    }
+}
