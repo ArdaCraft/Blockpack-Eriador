@@ -1,8 +1,19 @@
 {
-    "parent": "block/cube_bottom_top",
     "textures": {
-        "bottom": "acblocks:blocks/large_hobbit_window_3",
-        "top": "acblocks:blocks/large_hobbit_window_3",
-        "side": "acblocks:blocks/large_hobbit_window_3"
-    }
+        "particle": "acblocks:blocks/large_hobbit_window_3",
+    },
+    "elements": [
+        {
+            "from": [ 0.0, 0.0, 0.0 ], 
+            "to": [ 16.0, 16.0, 16.0 ], 
+            "faces": {
+                "north": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "south": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] },
+                "west": { "texture": "#particle", "uv": [ 16.0, 0.0, 0.0, 16.0 ] },
+                "up": { "texture": "#particle", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "down": { "texture": "#particle", "uv": [ 0.0, 16.0, 16.0, 0.0 ] }
+            }
+        }
+    ]
 }
